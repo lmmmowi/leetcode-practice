@@ -5,7 +5,7 @@ import scala.collection.mutable
 /**
   * @Author: mowi
   * @Date: 2019-05-11
-  * @Description:
+  * @Description: 1.两数之和[https://leetcode-cn.com/problems/two-sum/]
   */
 object Solution {
 
