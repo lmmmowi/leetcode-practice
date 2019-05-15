@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  */
 public class ReadMeGenerator {
 
-    private static final Pattern pattern = Pattern.compile(".*(\\d+)\\.(.*)\\[(.*)\\]");
+    private static final Pattern pattern = Pattern.compile(".* (\\d+)\\.(.*)\\[(.*)\\]");
 
     public static void main(String[] args) {
         new ReadMeGenerator().run();
