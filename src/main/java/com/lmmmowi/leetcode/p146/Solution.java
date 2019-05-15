@@ -1,4 +1,4 @@
-package com.lmmmowi.leetcode.p5;
+package com.lmmmowi.leetcode.p146;
 
 /**
  * @Author: mowi

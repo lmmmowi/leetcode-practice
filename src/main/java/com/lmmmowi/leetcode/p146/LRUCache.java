@@ -1,4 +1,4 @@
-package com.lmmmowi.leetcode.p5;
+package com.lmmmowi.leetcode.p146;
 
 import java.util.*;
 
