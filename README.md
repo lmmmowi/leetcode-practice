@@ -9,3 +9,4 @@
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p2/Solution.scala) |
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p3/Solution.java) |
 | 4 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p4/Solution.java) |
+| 6 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p6/Solution.java) |
