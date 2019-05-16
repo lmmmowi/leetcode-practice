@@ -12,7 +12,7 @@ object Solution {
         val arr = new Array[Int](10)
 
         // 提取符号
-        val minus = x < 0
+        val signalValue = if (x < 0) -1 else 1
 
         // 把各个位上的数字提取到数组里
         var n = 1
@@ -37,17 +37,12 @@ object Solution {
                 return 0
             }
 
-            if (minus) res -= toAdd else res += toAdd
+            if (signalValue < 0) res -= toAdd else res += toAdd
             multiplier *= 10
         }
 
         // 如果累加结果与输入数值符号相同，则返回累加值，否则越界
-        if (minus) {
-            if (res < 0) res else 0
-        }
-        else {
-            if (res > 0) res else 0
-        }
+        if (signalValue * res > 0) res else 0
     }
 
     def abs(i: Int): Int = {
