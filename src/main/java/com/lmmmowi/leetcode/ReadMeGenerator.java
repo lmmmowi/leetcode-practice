@@ -43,8 +43,8 @@ public class ReadMeGenerator {
 
         stringBuilder.append("# leetcode题目练习").append("\n");
         stringBuilder.append("\n");
-        stringBuilder.append("![Travis](https://img.shields.io/badge/language-java-blue.svg)").append("\n");
-        stringBuilder.append("![Travis](https://img.shields.io/badge/language-scala-red.svg)").append("\n");
+        stringBuilder.append("![Language](https://img.shields.io/badge/language-java-blue.svg)").append("\n");
+        stringBuilder.append("![Language](https://img.shields.io/badge/language-scala-red.svg)").append("\n");
         stringBuilder.append("\n");
         stringBuilder.append("| 题号 | 题目 | 解法 |").append("\n");
         stringBuilder.append("| --- |:---:| :---:|").append("\n");
