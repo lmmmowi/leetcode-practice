@@ -7,11 +7,6 @@ package com.lmmmowi.leetcode.scala.p11
   */
 object Solution {
 
-    def main(args: Array[String]): Unit = {
-        val a = Solution.maxArea(Array(1, 8, 6, 2, 5, 4, 8, 3, 7))
-        println(a)
-    }
-
     def maxArea(height: Array[Int]): Int = {
         var l = 0
         var r = height.length - 1
