@@ -13,5 +13,6 @@
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p7/Solution.scala) |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p9/Solution.java) |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p11/Solution.scala) |
+| 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p15/Solution.java) |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p20/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
