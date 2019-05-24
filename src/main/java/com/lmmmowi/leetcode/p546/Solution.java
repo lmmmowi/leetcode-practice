@@ -3,66 +3,51 @@ package com.lmmmowi.leetcode.p546;
 /**
  * @Author: mowi
  * @Date: 2019/5/24
- * @Description:
+ * @Description: 546.移除盒子[https://leetcode-cn.com/problems/remove-boxes/]
  */
 public class Solution {
 
-    public static void main(String[] args) {
-        new Solution().removeBoxes(new int[]{1, 2, 3, 4});
-    }
-
     public int removeBoxes(int[] boxes) {
         int length = boxes.length;
-        int[][] dp = new int[length][length];
+
+        // dp[i][j][k]表示假设[i-k, i]颜色都相同的情况下，[i-k, j]范围所能取到的最大值
+        // 即boxes[i]左边有k个与其相同颜色的盒子
+        int[][][] dp = new int[length][length][length];
 
         for (int i = 0; i < length; i++) {
-            dp[i][i] = 1;
-        }
-
-        for (int l = 2; l <= length; l++) {
-            for (int i = 0; i < length - l + 1; i++) {
-                cal(boxes, dp, i, i + l - 1);
+            for (int k = 0; k < i; k++) {
+                dp[i][i][k] = (k + 1) * (k + 1);
             }
         }
 
-        return 0;
+        return calculate(boxes, dp, 0, length - 1, 0);
     }
 
-    private void cal(int[] boxes, int[][] dp, int from, int to) {
-        if (dp[from][to] > 0) {
-            // 已经计算过了
-            return;
+    private int calculate(int[] boxes, int[][][] dp, int i, int j, int k) {
+        if (i > j) {
+            return 0;
         }
 
-        int max = 0;
+        if (dp[i][j][k] > 0) {
+            return dp[i][j][k];
+        }
 
-        // 情况一：左右两部分
-        for (int i = from + 1; i <= to; i++) {
-            int a = dp[from][i - 1] + dp[i][to];
-            if (max < a) {
-                max = a;
+        // 情况一
+        // [i-k, i]作为整体取出，最大值为(k+1)*(k+1)
+        // [i+1, j]部分作为整体取出，最大值为dp[i+1][j][0]
+        int res = (k + 1) * (k + 1) + calculate(boxes, dp, i + 1, j, 0);
+
+        // 情况二
+        // [i+1, m-i]作为整体取出，最大值为dp[i+1][m-1][0]
+        // [i-k, i]和[m, j]合并后作为整体取出，最大值等价于dp[m][j][k+1]
+        for (int m = i + 1; m <= j; m++) {
+            if (boxes[i] == boxes[m]) {
+                int a = calculate(boxes, dp, i + 1, m - 1, 0);
+                int b = calculate(boxes, dp, m, j, k + 1);
+                res = Math.max(res, a + b);
             }
         }
 
-        // 情况二：两边包中间
-        int color = boxes[from];
-        if (boxes[to] == color) {
-            int c = 0;
-            for (int i = from + 1; i < to; i++) {
-                if (boxes[i] == color && c == 0) {
-                    c = i;
-                }
-                if (boxes[i] != color && c != 0) {
-                    int k = 1 + 1 + (i - c);
-                    int a = dp[from + 1][c - 1] + dp[i][to - 1] + k * k;
-                    if (max < a) {
-                        max = a;
-                    }
-                }
-            }
-        }
-
-        System.out.println("计算 " + from + " ==> " + to);
-        System.out.println(max);
+        return dp[i][j][k] = res;
     }
 }
