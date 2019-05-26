@@ -17,7 +17,7 @@ public class Solution {
 
         // 假设符合条件的三个下标为（l,m,r），依次从1到length-1遍历m
         for (int m = 1; m < nums.length - 1; m++) {
-            // 特别注册此处两个if判断，可以避免出现重复的组合
+            // 特别注意此处两个if判断，可以避免出现重复的组合
             int l = 0;
             if (m > 1 && nums[m] == nums[m - 1]) {
                 if (nums[m] == nums[m - 2]) {
