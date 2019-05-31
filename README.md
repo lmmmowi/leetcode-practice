@@ -28,6 +28,7 @@
 | 22 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p22/Solution.java) |
 | 23 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p23/Solution.java) |
 | 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p24/Solution.java) |
+| 25 | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p25/Solution.java) |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p26/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
