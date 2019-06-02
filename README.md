@@ -33,6 +33,7 @@
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p27/Solution.scala) |
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p28/Solution.scala) |
 | 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p29/Solution.java) |
+| 30 | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p30/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
