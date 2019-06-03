@@ -16,13 +16,19 @@ public class Solution {
         }
     }
 
+    /**
+     * 该方法用于递归，表示尝试调整从k开始往后的数组部分
+     * @param nums
+     * @param k
+     * @return
+     */
     private boolean handle(int[] nums, int k) {
         // 只剩下最后一位，无法调整
         if (k >= nums.length - 1) {
             return false;
         }
 
-        // 该方法保持第k位不动，尝试通过调整k之后的数字找到下一个更大的系列
+        // 保持第k位不变，尝试调整后面的部分
         boolean ok = handle(nums, k + 1);
 
         // 如果无法调整成功（说明从k+1开始的数组已经是降序）
