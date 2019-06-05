@@ -39,6 +39,7 @@
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p33/Solution.java) |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p34/Solution.scala) |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p35/Solution.scala) |
+| 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p36/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
