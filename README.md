@@ -42,6 +42,7 @@
 | 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p36/Solution.java) |
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p37/Solution.java) |
 | 38 | [报数](https://leetcode-cn.com/problems/count-and-say/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p38/Solution.java) |
+| 39 | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p39/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
