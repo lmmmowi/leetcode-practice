@@ -51,6 +51,7 @@
 | 45 | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p45/Solution.java) |
 | 46 | [全排列](https://leetcode-cn.com/problems/permutations/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p46/Solution.java) |
 | 47 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p47/Solution.java) |
+| 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p49/Solution.java) |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p50/Solution.java) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p53/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
