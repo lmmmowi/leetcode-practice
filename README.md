@@ -49,6 +49,7 @@
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p43/Solution.java) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p44/Solution.java) |
 | 45 | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p45/Solution.java) |
+| 46 | [全排列](https://leetcode-cn.com/problems/permutations/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p46/Solution.java) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p53/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
