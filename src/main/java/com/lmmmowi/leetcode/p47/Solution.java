@@ -8,7 +8,7 @@ import java.util.Stack;
 /**
  * @Author: mowi
  * @Date: 2019-06-11
- * @Description: 46.全排列 II[https://leetcode-cn.com/problems/permutations-ii/]
+ * @Description: 47.全排列 II[https://leetcode-cn.com/problems/permutations-ii/]
  */
 public class Solution {
 
