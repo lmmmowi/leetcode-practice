@@ -54,6 +54,7 @@
 | 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p48/Solution.java) |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p49/Solution.java) |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p50/Solution.java) |
+| 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p51/Solution.java) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p53/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
