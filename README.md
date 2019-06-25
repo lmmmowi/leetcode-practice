@@ -57,6 +57,7 @@
 | 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p51/Solution.java) |
 | 52 | [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p52/Solution.java) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p53/Solution.java) |
+| 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p54/Solution.java) |
 | 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p55/Solution.java) |
 | 56 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p56/Solution.java) |
 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p62/Solution.java) |
