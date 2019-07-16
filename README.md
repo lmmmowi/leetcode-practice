@@ -66,6 +66,7 @@
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p60/Solution.java) |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p61/Solution.java) |
 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p62/Solution.java) |
+| 63 | [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p63/Solution.java) |
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p64/Solution.java) |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p72/Solution.java) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
