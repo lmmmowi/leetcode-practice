@@ -72,6 +72,7 @@
 | 65 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p65/Solution.java) |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p66/Solution.go) |
 | 67 | [ 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p67/Solution.go) |
+| 69 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p69/Solution.java) |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p72/Solution.java) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
