@@ -83,6 +83,7 @@
 | 88 | [ 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p88/Solution.go) |
 | 91 | [ 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p93/Solution.java) |
+| 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p100/Solution.go) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
