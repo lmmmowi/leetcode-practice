@@ -1,6 +1,12 @@
 // 104.二叉树的最大深度[https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/]
 package main
 
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
 func main() {
 	p := &TreeNode{1, nil, nil}
 	p.Left = &TreeNode{2, nil, nil}
@@ -8,12 +14,6 @@ func main() {
 	p.Right.Left = &TreeNode{4, nil, nil}
 
 	print(maxDepth(p))
-}
-
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
 }
 
 func maxDepth(root *TreeNode) int {

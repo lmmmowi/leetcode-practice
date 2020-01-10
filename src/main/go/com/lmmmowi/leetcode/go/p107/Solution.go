@@ -5,6 +5,12 @@ import (
 	"container/list"
 )
 
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
 func main() {
 	p := &TreeNode{1, nil, nil}
 	p.Left = &TreeNode{2, nil, nil}
@@ -18,12 +24,6 @@ func main() {
 		}
 		println()
 	}
-}
-
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
 }
 
 func levelOrderBottom(root *TreeNode) [][]int {
