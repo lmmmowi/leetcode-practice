@@ -73,6 +73,7 @@
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p66/Solution.go) |
 | 67 | [ 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p67/Solution.go) |
 | 69 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p69/Solution.java) |
+| 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p71/Solution.go) |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p72/Solution.java) |
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p73/Solution.java) |
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p75/Solution.java) |
