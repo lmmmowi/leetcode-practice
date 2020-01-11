@@ -76,6 +76,7 @@
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p71/Solution.go) |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p72/Solution.java) |
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p73/Solution.java) |
+| 74 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p74/Solution.go) |
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p75/Solution.java) |
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p77/Solution.go) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p79/Solution.java) |
