@@ -83,6 +83,7 @@
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p77/Solution.go) |
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p78/Solution.go) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p79/Solution.java) |
+| 80 | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p80/Solution.go) |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p82/Solution.java) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p83/Solution.java) |
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p84/Solution.go) |
