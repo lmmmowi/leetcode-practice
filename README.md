@@ -96,6 +96,8 @@
 | 91 | [ 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p92/Solution.go) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p93/Solution.java) |
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p94/Solution.go) |
+| 95 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p95/Solution.go) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p100/Solution.go) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p104/Solution.go) |
