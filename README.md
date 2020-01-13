@@ -106,6 +106,7 @@
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p104/Solution.go) |
 | 107 | [二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p107/Solution.go) |
 | 108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p108/Solution.go) |
+| 111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p111/Solution.go) |
 | 112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p112/Solution.go) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p118/Solution.go) |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p119/Solution.go) |
