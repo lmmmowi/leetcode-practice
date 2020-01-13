@@ -91,6 +91,7 @@
 | 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p89/Solution.go) |
 | 90 | [子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p90/Solution.go) |
 | 91 | [ 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
+| 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p92/Solution.go) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p93/Solution.java) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p100/Solution.go) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
