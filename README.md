@@ -89,6 +89,7 @@
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p87/Solution.java) |
 | 88 | [ 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p88/Solution.go) |
 | 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p89/Solution.go) |
+| 90 | [子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p90/Solution.go) |
 | 91 | [ 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p93/Solution.java) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p100/Solution.go) |
