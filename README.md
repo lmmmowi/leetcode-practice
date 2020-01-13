@@ -81,6 +81,7 @@
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p75/Solution.java) |
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p76/Solution.go) |
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p77/Solution.go) |
+| 78 | [子集](https://leetcode-cn.com/problems/subsets/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/go/com/lmmmowi/leetcode/go/p78/Solution.go) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p79/Solution.java) |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p82/Solution.java) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master//src/main/java/com/lmmmowi/leetcode/p83/Solution.java) |
