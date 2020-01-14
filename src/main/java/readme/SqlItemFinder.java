@@ -21,6 +21,6 @@ public class SqlItemFinder extends ItemFinder {
 
     @Override
     protected String getLanguage() {
-        return "SQL";
+        return "sql";
     }
 }
