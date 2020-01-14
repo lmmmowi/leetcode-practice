@@ -23,7 +23,7 @@ public class ReadMeGenerator {
         File projectDir = new File(classPathUrl.getFile().replace("target/classes/", ""));
 
         Map<Integer, List<SolutionItem>> itemMap = new HashMap<>();
-        Stream.of(new JavaItemFinder(), new ScalaItemFinder(), new GoItemFinder())
+        Stream.of(new JavaItemFinder(), new ScalaItemFinder(), new GoItemFinder(), new SqlItemFinder())
                 .map(o -> o.findScalaItems(projectDir))
                 .forEach(l ->
                         l.forEach(item -> {
