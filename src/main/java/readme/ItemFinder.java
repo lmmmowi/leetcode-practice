@@ -19,7 +19,7 @@ public abstract class ItemFinder {
 
     private static final Pattern pattern = Pattern.compile(".* (\\d+)\\.(.*)\\[(.*)\\]");
 
-    public List<SolutionItem> findScalaItems(File projectDir) {
+    public List<SolutionItem> findItems(File projectDir) {
         File srcDir = new File(projectDir, this.getSrcDirPath());
         File targetDir = new File(srcDir, this.getPackagePath());
 
@@ -59,6 +59,9 @@ public abstract class ItemFinder {
         String githubBase = "https://github.com/lmmmowi/leetcode-practice/blob/master/";
         String relativeFilePath = solutionFile.getAbsolutePath().substring(projectDir.getAbsolutePath().length());
         relativeFilePath = relativeFilePath.replace("\\", "/");
+        if (relativeFilePath.startsWith("/")) {
+            relativeFilePath = relativeFilePath.substring(1);
+        }
         return githubBase + relativeFilePath;
     }
 

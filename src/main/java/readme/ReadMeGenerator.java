@@ -24,7 +24,7 @@ public class ReadMeGenerator {
 
         Map<Integer, List<SolutionItem>> itemMap = new HashMap<>();
         Stream.of(new JavaItemFinder(), new ScalaItemFinder(), new GoItemFinder(), new SqlItemFinder())
-                .map(o -> o.findScalaItems(projectDir))
+                .map(o -> o.findItems(projectDir))
                 .forEach(l ->
                         l.forEach(item -> {
                             itemMap.computeIfAbsent(item.num, items -> itemMap.put(item.num, new ArrayList<>()));
