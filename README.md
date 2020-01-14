@@ -116,6 +116,7 @@
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p119/Solution.go) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p122/Solution.go) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p136/Solution.go) |
+| 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p142/Solution.go) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p176/Solution.sql) |
 | 181 | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p181/Solution.sql) |
