@@ -124,6 +124,7 @@
 | 182 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p182/Solution.sql) |
 | 183 | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p183/Solution.sql) |
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p189/Solution.go) |
+| 200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p200/Solution.go) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
