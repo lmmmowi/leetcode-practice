@@ -115,6 +115,7 @@
 | 115 | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p115/Solution.go) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p118/Solution.go) |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p119/Solution.go) |
+| 120 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p120/Solution.go) |
 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p122/Solution.go) |
 | 127 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p127/Solution.go) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p136/Solution.go) |
