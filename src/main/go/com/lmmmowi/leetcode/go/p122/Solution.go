@@ -11,11 +11,11 @@ func maxProfit(prices []int) int {
 		return 0
 	}
 
-	// a[i]标识第i持股的情况下所拥有的最大价值
+	// a[i]标识第i天持股的情况下所拥有的最大价值
 	a := make([]int, days)
 	a[0] = -prices[0]
 
-	// b[i]标识第i不持股的情况下所拥有的最大价值
+	// b[i]标识第i天不持股的情况下所拥有的最大价值
 	b := make([]int, days)
 	b[0] = 0
 
