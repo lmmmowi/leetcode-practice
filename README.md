@@ -115,6 +115,7 @@
 | 111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p111/Solution.go) |
 | 112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p112/Solution.go) |
 | 113 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p113/Solution.go) |
+| 114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p114/Solution.go) |
 | 115 | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p115/Solution.go) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p118/Solution.go) |
 | 119 | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p119/Solution.go) |
