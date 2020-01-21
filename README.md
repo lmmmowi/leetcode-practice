@@ -125,6 +125,7 @@
 | 127 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p127/Solution.go) |
 | 129 | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p129/Solution.go) |
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p134/Solution.go) |
+| 135 | [分发糖果](https://leetcode-cn.com/problems/candy/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p135/Solution.go) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p136/Solution.go) |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p142/Solution.go) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
