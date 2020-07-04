@@ -130,6 +130,7 @@
 | 137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p137/Solution.go) |
 | 138 | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p138/Solution.java) |
 | 139 | [单词拆分](https://leetcode-cn.com/problems/word-break/submissions/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p139/Solution.java) |
+| 140 | [单词拆分 II](https://leetcode-cn.com/problems/word-break/submissions-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p140/Solution.java) |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p141/Solution.go) |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p142/Solution.go) |
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
