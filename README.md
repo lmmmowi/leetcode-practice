@@ -136,6 +136,7 @@
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p146/Solution.java) |
 | 149 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p149/Solution.go) |
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p150/Solution.go) |
+| 152 | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p152/Solution.java) |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p160/Solution.go) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p172/Solution.go) |
 | 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p176/Solution.sql) |
