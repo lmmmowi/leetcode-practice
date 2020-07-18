@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p935;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/1/10
  * @Description: 935.骑士拨号器[https://leetcode-cn.com/problems/knight-dialer/]
  */

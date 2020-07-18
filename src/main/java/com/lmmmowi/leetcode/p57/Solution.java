@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p57;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/7/12
  * @Description: 57.插入区间[https://leetcode-cn.com/problems/insert-interval/]
  */

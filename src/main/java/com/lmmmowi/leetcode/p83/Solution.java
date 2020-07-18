@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p83;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/8/9
  * @Description: 83.删除排序链表中的重复元素[https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/]
  */

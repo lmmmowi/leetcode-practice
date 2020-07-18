@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p152;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/7/7
  * @Description: 152.乘积最大子数组[https://leetcode-cn.com/problems/maximum-product-subarray/]
  */

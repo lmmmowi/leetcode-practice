@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/7/11
  * @Description: 60.第k个排列[https://leetcode-cn.com/problems/permutation-sequence/]
  */

@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p287;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/7/18
  * @Description: 287.寻找重复数[https://leetcode-cn.com/problems/find-the-duplicate-number/]
  */

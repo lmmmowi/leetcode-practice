@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/8/8
  * @Description: 93.复原IP地址[https://leetcode-cn.com/problems/restore-ip-addresses/]
  */

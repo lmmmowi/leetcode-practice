@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p79;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/9/16
  * @Description: 79.单词搜索[https://leetcode-cn.com/problems/word-search/]
  */

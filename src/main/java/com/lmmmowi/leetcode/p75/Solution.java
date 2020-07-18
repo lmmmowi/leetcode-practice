@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p75;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/8/12
  * @Description: 75.颜色分类[https://leetcode-cn.com/problems/sort-colors/]
  */

@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p72;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/7/2
  * @Description: 72.编辑距离[https://leetcode-cn.com/problems/edit-distance/]
  */

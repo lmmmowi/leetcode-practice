@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p65;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/7/16
  * @Description: 65.有效数字[https://leetcode-cn.com/problems/valid-number/]
  */

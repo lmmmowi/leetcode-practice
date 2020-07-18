@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p63;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2019/7/16
  * @Description: 63.不同路径 II[https://leetcode-cn.com/problems/unique-paths-ii/]
  */

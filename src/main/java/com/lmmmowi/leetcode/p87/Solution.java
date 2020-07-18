@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p87;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/1/10
  * @Description: 87.扰乱字符串[https://leetcode-cn.com/problems/scramble-string/]
  */

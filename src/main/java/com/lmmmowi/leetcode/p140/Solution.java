@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p140;
 import java.util.*;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/7/4
  * @Description: 140.单词拆分 II[https://leetcode-cn.com/problems/word-break/submissions-ii/]
  */
