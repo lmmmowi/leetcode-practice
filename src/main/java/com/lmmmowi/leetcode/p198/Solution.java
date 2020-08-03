@@ -19,7 +19,7 @@ public class Solution {
         int r = nums[1];
         int nr = nums[0];
         for (int i = 2; i < length; i++) {
-            int newSteal = Math.max(r, nr + nums[i]);
+            int newSteal = nr + nums[i];
             int newNotSteal = Math.max(r, nr);
             r = newSteal;
             nr = newNotSteal;
