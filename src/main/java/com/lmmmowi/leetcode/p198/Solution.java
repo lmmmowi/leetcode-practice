@@ -16,15 +16,15 @@ public class Solution {
             return nums[0];
         }
 
-        int steal = nums[1];
-        int notSteal = nums[0];
+        int r = nums[1];
+        int nr = nums[0];
         for (int i = 2; i < length; i++) {
-            int newSteal = Math.max(steal, notSteal + nums[i]);
-            int newNotSteal = Math.max(steal, notSteal);
-            steal = newSteal;
-            notSteal = newNotSteal;
+            int newSteal = Math.max(r, nr + nums[i]);
+            int newNotSteal = Math.max(r, nr);
+            r = newSteal;
+            nr = newNotSteal;
         }
-        return Math.max(steal, notSteal);
+        return Math.max(r, nr);
     }
 
 }
