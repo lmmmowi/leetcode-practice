@@ -17,9 +17,6 @@ public class Solution {
 
     private int nextPalindrome(int x) {
         int length = getLength(x);
-        if (length == 8) {
-            return nextPalindrome(100_000_000);
-        }
 
         for (int i = 0; i < length / 2; i++) {
             x /= 10;
@@ -36,6 +33,18 @@ public class Solution {
         x += reverse;
 
         return x;
+    }
+
+    private int getLength(int x) {
+        if (x == 0) {
+            return 1;
+        }
+        int length = 0;
+        while (x > 0) {
+            x /= 10;
+            length++;
+        }
+        return length;
     }
 
     private boolean isPalindrome(int x) {
@@ -62,14 +71,5 @@ public class Solution {
             }
         }
         return true;
-    }
-
-    private int getLength(int x) {
-        int length = 0;
-        while (x > 0) {
-            x /= 10;
-            length++;
-        }
-        return length;
     }
 }
