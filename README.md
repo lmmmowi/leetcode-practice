@@ -161,6 +161,7 @@
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
 | 866 | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p866/Solution.java) |
+| 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
 | 935 | [骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p935/Solution.java) |
 | 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1114/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
