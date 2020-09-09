@@ -9,88 +9,122 @@ import java.util.*;
  */
 public class Solution {
 
-    private static final int ORIGIN_X = 0;
-    private static final int ORIGIN_Y = 0;
-
-    private static final int UP = 0;
-    private static final int RIGHT = 1;
-    private static final int DOWN = 2;
-    private static final int LEFT = 3;
-
-    private int cx = ORIGIN_X;
-    private int cy = ORIGIN_Y;
-    private int direction = UP;
-
     public int robotSim(int[] commands, int[][] obstacles) {
-        Map<Integer, Set<Integer>> map = new HashMap<>();
-        for (int[] obstacle : obstacles) {
-            int x = obstacle[0];
-            int y = obstacle[1];
+        int maxDistance = 0;
 
-            Set<Integer> set = map.computeIfAbsent(x, o -> new HashSet<>());
-            set.add(y);
-        }
-
-        int distance = 0;
+        ObstacleMap obstacleMap = new ObstacleMap(obstacles);
+        Robot robot = new Robot(0, 0, Direction.UP);
         for (int command : commands) {
             switch (command) {
                 case -1:
-                    turnRight();
+                    robot.turnRight();
                     break;
                 case -2:
-                    turnLeft();
+                    robot.turnLeft();
                     break;
                 default:
-                    int step = 0;
-                    while (step < command && move(map)) {
-                        step++;
-                    }
-                    distance = Math.max(distance, calculateDistance());
+                    robot.move(command, obstacleMap);
+                    maxDistance = Math.max(maxDistance, robot.getDistance(0, 0));
             }
         }
 
-        return distance;
+        return maxDistance;
     }
 
-    private int calculateDistance() {
-        return cx * cx + cy * cy;
-    }
+    private class Robot {
 
-    private void turnRight() {
-        direction = (direction + 1) % 4;
-    }
+        private int x;
+        private int y;
+        private Direction direction;
 
-    private void turnLeft() {
-        direction = (direction + 3) % 4;
-    }
-
-    private boolean move(Map<Integer, Set<Integer>> map) {
-        int x = cx;
-        int y = cy;
-
-        switch (direction) {
-            case UP:
-                y++;
-                break;
-            case RIGHT:
-                x++;
-                break;
-            case DOWN:
-                y--;
-                break;
-            case LEFT:
-                x--;
-                break;
-            default:
+        public Robot(int x, int y, Direction direction) {
+            this.x = x;
+            this.y = y;
+            this.direction = direction;
         }
 
-        boolean isBlocked = map.getOrDefault(x, Collections.emptySet()).contains(y);
-        if (isBlocked) {
-            return false;
-        } else {
-            cx = x;
-            cy = y;
-            return true;
+        public void turnLeft() {
+            this.direction = this.direction.getLeft();
+        }
+
+        public void turnRight() {
+            this.direction = this.direction.getRight();
+        }
+
+        public void move(int step, ObstacleMap obstacleMap) {
+            for (int i = 0; i < step; i++) {
+                int targetX = x + direction.getMoveX();
+                int targetY = y + direction.getMoveY();
+
+                if (obstacleMap.hasObstacle(targetX, targetY)) {
+                    break;
+                } else {
+                    this.x = targetX;
+                    this.y = targetY;
+                }
+            }
+        }
+
+        public int getDistance(int targetX, int targetY) {
+            int a = x - targetX;
+            int b = y - targetY;
+            return a * a + b * b;
+        }
+    }
+
+    private class ObstacleMap {
+
+        private Set<Long> set = new HashSet<>();
+
+        public ObstacleMap(int[][] obstacles) {
+            for (int[] obstacle : obstacles) {
+                int x = obstacle[0];
+                int y = obstacle[1];
+                long val = getVal(x, y);
+                set.add(val);
+            }
+        }
+
+        public boolean hasObstacle(int x, int y) {
+            long val = getVal(x, y);
+            return set.contains(val);
+        }
+
+        private long getVal(int x, int y) {
+            return ((x + 30000) << 16) + (y + 30000);
+        }
+    }
+
+    private enum Direction {
+        UP(0, 1),
+        RIGHT(1, 0),
+        DOWN(0, -1),
+        LEFT(-1, 0);
+
+        private int moveX;
+        private int moveY;
+
+        Direction(int moveX, int moveY) {
+            this.moveX = moveX;
+            this.moveY = moveY;
+        }
+
+        public int getMoveX() {
+            return moveX;
+        }
+
+        public int getMoveY() {
+            return moveY;
+        }
+
+        public Direction getRight() {
+            int index = (this.ordinal() + 1) % 4;
+            return values()[index];
+        }
+
+        public Direction getLeft() {
+            int index = (this.ordinal() + 3) % 4;
+            return values()[index];
         }
     }
 }
