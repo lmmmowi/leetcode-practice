@@ -165,5 +165,6 @@
 | 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
 | 935 | [骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p935/Solution.java) |
 | 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1114/Solution.java) |
+| 1328 | [破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1328/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1512 | [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1512/Solution.java) |
