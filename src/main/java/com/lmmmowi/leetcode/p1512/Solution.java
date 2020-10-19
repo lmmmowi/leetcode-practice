@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p1512;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/7/20
  * @Description: 1512.好数对的数目[https://leetcode-cn.com/problems/number-of-good-pairs/]
  */

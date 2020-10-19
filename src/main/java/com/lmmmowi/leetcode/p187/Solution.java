@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p187;
 import java.util.*;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/25
  * @Description: 187.重复的DNA序列[https://leetcode-cn.com/problems/repeated-dna-sequences/]
  */

@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p332;
 import java.util.*;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/28
  * @Description: 332.重新安排行程[https://leetcode-cn.com/problems/reconstruct-itinerary/]
  */

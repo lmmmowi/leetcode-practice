@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p866;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/12
  * @Description: 866.回文素数[https://leetcode-cn.com/problems/prime-palindrome/]
  */

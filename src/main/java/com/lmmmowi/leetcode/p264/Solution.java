@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p264;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/9/24
  * @Description: 264.丑数 II[https://leetcode-cn.com/problems/ugly-number-ii/]
  */

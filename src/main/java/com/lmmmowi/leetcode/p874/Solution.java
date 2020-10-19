@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p874;
 import java.util.*;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/9/1
  * @Description: 874.模拟行走机器人[https://leetcode-cn.com/problems/walking-robot-simulation/]
  */

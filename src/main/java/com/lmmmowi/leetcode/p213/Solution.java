@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p213;
 import java.util.Arrays;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/3
  * @Description: 213.打家劫舍 II[https://leetcode-cn.com/problems/house-robber-ii/]
  */

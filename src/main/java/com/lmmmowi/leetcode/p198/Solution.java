@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p198;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/3
  * @Description: 198.打家劫舍[https://leetcode-cn.com/problems/house-robber/]
  */

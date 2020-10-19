@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p318;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/17
  * @Description: 318.最大单词长度乘积[https://leetcode-cn.com/problems/maximum-product-of-word-lengths/]
  */

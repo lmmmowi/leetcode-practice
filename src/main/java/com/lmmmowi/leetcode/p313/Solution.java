@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p313;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/10/19
  * @Description: 313.超级丑数[https://leetcode-cn.com/problems/super-ugly-number/]
  */

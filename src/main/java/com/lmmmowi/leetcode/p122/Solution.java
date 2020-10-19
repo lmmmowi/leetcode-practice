@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p122;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/8/3
  * @Description: 122.买卖股票的最佳时机 II[https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/]
  */

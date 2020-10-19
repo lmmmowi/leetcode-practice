@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/9/14
  * @Description: 273.整数转换英文表示[https://leetcode-cn.com/problems/integer-to-english-words/]
  */

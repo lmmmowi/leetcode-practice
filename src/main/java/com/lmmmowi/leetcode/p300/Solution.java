@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p300;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/9/9
  * @Description: 300.最长上升子序列[https://leetcode-cn.com/problems/longest-increasing-subsequence/]
  */

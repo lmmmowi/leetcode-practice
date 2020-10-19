@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p274;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/9/28
  * @Description: 274.H 指数[https://leetcode-cn.com/problems/h-index/]
  */
