@@ -158,6 +158,7 @@
 | 273 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p273/Solution.java) |
 | 274 | [H 指数](https://leetcode-cn.com/problems/h-index/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p274/Solution.java) |
 | 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p287/Solution.java) |
+| 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p297/Solution.java) |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p300/Solution.java) |
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p313/Solution.java) |
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p318/Solution.java) |

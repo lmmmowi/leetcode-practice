@@ -3,7 +3,7 @@ package com.lmmmowi.leetcode.p297;
 /**
  * @Author: lmmmowi
  * @Date: 2020/10/22
- * @Description:
+ * @Description: 297.二叉树的序列化与反序列化[https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/]
  */
 public class Solution {
 
