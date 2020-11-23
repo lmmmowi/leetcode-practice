@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
@@ -28,10 +29,13 @@ public abstract class ItemFinder {
                 .filter(File::exists)
                 .map(file -> {
                     SolutionItem item = parseSolutionItem(file);
-                    item.language = this.getLanguage();
-                    item.solutionUrl = this.getGithubPageUrl(projectDir, file);
+                    if (item != null) {
+                        item.language = this.getLanguage();
+                        item.solutionUrl = this.getGithubPageUrl(projectDir, file);
+                    }
                     return item;
                 })
+                .filter(Objects::nonNull)
                 .collect(Collectors.toList());
     }
 
