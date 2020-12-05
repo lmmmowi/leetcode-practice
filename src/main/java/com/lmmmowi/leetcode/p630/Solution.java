@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2020/11/30
  * @Description: 630.课程表 III[https://leetcode-cn.com/problems/course-schedule-iii/]
  */
