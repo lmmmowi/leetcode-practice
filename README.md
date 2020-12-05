@@ -31,14 +31,14 @@
 | 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p24/Solution.java) |
 | 25 | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p25/Solution.java) |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p26/Solution.java) |
-| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p27/Solution.scala) |
+| 27 | [移除元素](https://leetcode-cn.com/problems/remove-node/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p27/Solution.scala) |
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p28/Solution.scala) |
 | 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p29/Solution.java) |
 | 30 | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p30/Solution.java) |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p31/Solution.java) |
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p32/Solution.java) |
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p33/Solution.java) |
-| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p34/Solution.java),[scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p34/Solution.scala) |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/findParent-first-and-last-position-of-element-in-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p34/Solution.java),[scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p34/Solution.scala) |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [scala](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/scala/com/lmmmowi/leetcode/scala/p35/Solution.scala) |
 | 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p36/Solution.java) |
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p37/Solution.java) |
@@ -164,7 +164,7 @@
 | 274 | [H 指数](https://leetcode-cn.com/problems/h-index/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p274/Solution.java) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p278/Solution.go) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p283/Solution.go) |
-| 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p287/Solution.java) |
+| 287 | [寻找重复数](https://leetcode-cn.com/problems/findParent-the-duplicate-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p287/Solution.java) |
 | 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p290/Solution.go) |
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p297/Solution.java) |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p300/Solution.java) |
@@ -184,3 +184,4 @@
 | 1357 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1357/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1512 | [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1512/Solution.java) |
+| 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
