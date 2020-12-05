@@ -17,11 +17,11 @@ public class Solution {
         int colNum = matrix[0].length;
 
         // 创建节点列表
-        List<Node> nodes = new ArrayList<>();
+        Node[] nodes = new Node[rowNum * colNum];
         for (int r = 0; r < rowNum; r++) {
             for (int c = 0; c < colNum; c++) {
                 Node node = new Node(r, c, matrix[r][c]);
-                nodes.add(node);
+                nodes[r * colNum + c] = node;
             }
         }
 
@@ -33,7 +33,7 @@ public class Solution {
         int[] colRanks = new int[colNum];
 
         // 排序并计算各节点的秩
-        nodes.sort(Comparator.comparingInt(o -> o.value));
+        Arrays.sort(nodes, Comparator.comparingInt(o -> o.value));
         for (Node node : nodes) {
             if (node == node.parent) {
                 this.setRank(node, rowRanks, colRanks);
@@ -66,12 +66,12 @@ public class Solution {
         }
     }
 
-    private void unionNodes(List<Node> nodes, int rowNum, int colNum) {
+    private void unionNodes(Node[] nodes, int rowNum, int colNum) {
         // 逐行合并
         Node[] line = new Node[colNum];
         for (int i = 0; i < rowNum; i++) {
             for (int j = 0; j < colNum; j++) {
-                line[j] = nodes.get(i * colNum + j);
+                line[j] = nodes[i * colNum + j];
             }
             this.union(line);
         }
@@ -80,7 +80,7 @@ public class Solution {
         line = new Node[rowNum];
         for (int j = 0; j < colNum; j++) {
             for (int i = 0; i < rowNum; i++) {
-                line[i] = nodes.get(i * colNum + j);
+                line[i] = nodes[i * colNum + j];
             }
             this.union(line);
         }
