@@ -180,6 +180,7 @@
 | 630 | [课程表 III](https://leetcode-cn.com/problems/course-schedule-iii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p630/Solution.java) |
 | 866 | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p866/Solution.java) |
 | 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
+| 904 | [水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p904/Solution.java) |
 | 935 | [骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p935/Solution.java) |
 | 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1114/Solution.java) |
 | 1328 | [破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1328/Solution.java) |
