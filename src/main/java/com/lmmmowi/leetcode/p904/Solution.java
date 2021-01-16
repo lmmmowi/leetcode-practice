@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/1/16
  * @Description: 904.水果成篮[https://leetcode-cn.com/problems/fruit-into-baskets/]
  */
