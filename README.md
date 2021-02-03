@@ -188,4 +188,5 @@
 | 1357 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1357/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1512 | [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1512/Solution.java) |
+| 1604 | [警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1604/Solution.java) |
 | 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
