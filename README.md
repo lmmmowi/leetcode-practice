@@ -100,7 +100,7 @@
 | 95 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p95/Solution.go) |
 | 96 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p96/Solution.go) |
 | 97 | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p97/Solution.go) |
-| 98 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p98/Solution.go) |
+| 98 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p98/Solution.java),[go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p98/Solution.go) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p100/Solution.go) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p101/Solution.java) |
 | 102 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p102/Solution.go) |
