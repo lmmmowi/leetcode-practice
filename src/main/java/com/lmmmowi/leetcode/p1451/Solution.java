@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/2/8
  * @Description: 1451.重新排列句子中的单词[https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/]
  */

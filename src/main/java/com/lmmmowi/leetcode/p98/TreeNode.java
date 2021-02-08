@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p98;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/2/3
  * @Description:
  */
