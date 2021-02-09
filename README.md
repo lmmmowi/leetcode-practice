@@ -138,6 +138,7 @@
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p150/Solution.go) |
 | 152 | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p152/Solution.java) |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p153/Solution.java) |
+| 154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p154/Solution.java) |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p160/Solution.go) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p172/Solution.go) |
 | 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p176/Solution.sql) |
