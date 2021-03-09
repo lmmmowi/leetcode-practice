@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p154;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/2/9
  * @Description: 154.寻找旋转排序数组中的最小值 II[https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/]
  */

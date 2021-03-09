@@ -1,7 +1,7 @@
 package com.lmmmowi.leetcode.p992;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/2/10
  * @Description: 992.K 个不同整数的子数组[https://leetcode-cn.com/problems/subarrays-with-k-different-integers/]
  */
