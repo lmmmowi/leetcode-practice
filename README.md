@@ -176,6 +176,8 @@
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p332/Solution.java) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
+| 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p451/Solution.java) |
+| 457 | [环形数组循环](https://leetcode-cn.com/problems/circular-array-loop/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p457/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p524/Solution.java) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p546/Solution.java) |
@@ -191,6 +193,7 @@
 | 1302 | [层数最深叶子节点的和](https://leetcode-cn.com/problems/deepest-leaves-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1302/Solution.java) |
 | 1328 | [破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1328/Solution.java) |
 | 1357 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1357/Solution.java) |
+| 1395 | [统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1395/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1451 | [重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1451/Solution.java) |
 | 1512 | [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1512/Solution.java) |
