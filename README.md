@@ -71,7 +71,7 @@
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p64/Solution.java) |
 | 65 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p65/Solution.java) |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p66/Solution.go) |
-| 67 | [ 二进制求和](https://leetcode-cn.com/problems/add-binary/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p67/Solution.go) |
+| 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p67/Solution.go) |
 | 68 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p68/Solution.go) |
 | 69 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p69/Solution.java) |
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p71/Solution.go) |
@@ -84,16 +84,16 @@
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p78/Solution.go) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p79/Solution.java) |
 | 80 | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p80/Solution.go) |
-| 81 | [ 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p81/Solution.go) |
+| 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p81/Solution.go) |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p82/Solution.java) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p83/Solution.java) |
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p84/Solution.go) |
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p86/Solution.go) |
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p87/Solution.java) |
-| 88 | [ 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p88/Solution.go) |
+| 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p88/Solution.go) |
 | 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p89/Solution.go) |
 | 90 | [子集 II](https://leetcode-cn.com/problems/subsets-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p90/Solution.java),[go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p90/Solution.go) |
-| 91 | [ 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
+| 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p91/Solution.go) |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p92/Solution.go) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p93/Solution.java) |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p94/Solution.go) |
