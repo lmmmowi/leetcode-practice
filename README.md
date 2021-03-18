@@ -202,6 +202,7 @@
 | 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
 | 剑指 Offer 3 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p3/Solution.java) |
 | 剑指 Offer 4 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p4/Solution.java) |
+| 剑指 Offer 5 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p5/Solution.java) |
 | 剑指 Offer 62 | [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p62/Solution.java) |
 | 剑指 Offer 63 | [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p63/Solution.java) |
 | 剑指 Offer 64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p64/Solution.java) |
