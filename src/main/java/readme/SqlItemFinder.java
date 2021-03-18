@@ -10,8 +10,8 @@ import java.io.File;
 public class SqlItemFinder extends ItemFinder {
 
     @Override
-    protected String getPackagePath() {
-        return "com/lmmmowi/leetcode/sql";
+    protected String[] getPackagePath() {
+        return new String[]{"com/lmmmowi/leetcode/sql"};
     }
 
     @Override

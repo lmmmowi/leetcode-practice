@@ -15,8 +15,8 @@ public class GoItemFinder extends ItemFinder {
     }
 
     @Override
-    protected String getPackagePath() {
-        return "com/lmmmowi/leetcode/go";
+    protected String[] getPackagePath() {
+        return new String[]{"com/lmmmowi/leetcode/go"};
     }
 
     @Override

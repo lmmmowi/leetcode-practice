@@ -15,8 +15,8 @@ public class ScalaItemFinder extends ItemFinder {
     }
 
     @Override
-    protected String getPackagePath() {
-        return "com/lmmmowi/leetcode/scala";
+    protected String[] getPackagePath() {
+        return new String[]{"com/lmmmowi/leetcode/scala"};
     }
 
     @Override

@@ -15,8 +15,11 @@ public class JavaItemFinder extends ItemFinder {
     }
 
     @Override
-    protected String getPackagePath() {
-        return "com/lmmmowi/leetcode";
+    protected String[] getPackagePath() {
+        return new String[]{
+                "com/lmmmowi/leetcode",
+                "com/lmmmowi/lcof"
+        };
     }
 
     @Override

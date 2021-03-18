@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 import java.util.Objects;
 import java.util.regex.Matcher;
@@ -18,13 +19,18 @@ import java.util.stream.Collectors;
  */
 public abstract class ItemFinder {
 
-    private static final Pattern pattern = Pattern.compile(".* (\\d+)\\.(.*)\\[(.*)\\]");
+    private static final Pattern pattern = Pattern.compile(".* (\\d+)\\.\\s*(.*)\\[(.*)\\]");
 
     public List<SolutionItem> findItems(File projectDir) {
         File srcDir = new File(projectDir, this.getSrcDirPath());
-        File targetDir = new File(srcDir, this.getPackagePath());
+        List<File> targetDirs = Arrays.stream(this.getPackagePath())
+                .map(path -> new File(srcDir, path))
+                .map(f -> f.listFiles(File::isDirectory))
+                .map(Arrays::asList)
+                .flatMap(Collection::stream)
+                .collect(Collectors.toList());
 
-        return Arrays.stream(targetDir.listFiles(File::isDirectory))
+        return targetDirs.stream()
                 .map(this::locateSolutionFile)
                 .filter(File::exists)
                 .map(file -> {
@@ -45,10 +51,13 @@ public abstract class ItemFinder {
             while ((line = reader.readLine()) != null) {
                 Matcher matcher = pattern.matcher(line);
                 if (matcher.find()) {
+                    ProblemType problemType = line.contains("剑指 Offer") ? ProblemType.OFFER : ProblemType.NORMAL;
+
                     SolutionItem item = new SolutionItem();
                     item.num = Integer.valueOf(matcher.group(1));
                     item.name = matcher.group(2);
                     item.url = matcher.group(3);
+                    item.problemType = problemType;
                     return item;
                 }
             }
@@ -73,7 +82,7 @@ public abstract class ItemFinder {
         return String.format("src/main/%s/", getLanguage());
     }
 
-    protected abstract String getPackagePath();
+    protected abstract String[] getPackagePath();
 
     protected abstract File locateSolutionFile(File solutionDir);
 
