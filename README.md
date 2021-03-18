@@ -171,6 +171,7 @@
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p297/Solution.java) |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p300/Solution.java) |
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p313/Solution.java) |
+| 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p315/Solution.java) |
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p318/Solution.java) |
 | 319 | [灯泡开关 ](https://leetcode-cn.com/problems/bulb-switcher/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p319/Solution.java) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p332/Solution.java) |
