@@ -1,7 +1,7 @@
 package com.lmmmowi.lcof.p62;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/3/18
  * @Description: 剑指 Offer 62. 圆圈中最后剩下的数字[https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/]
  */

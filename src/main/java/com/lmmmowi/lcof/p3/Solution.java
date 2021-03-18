@@ -1,7 +1,7 @@
 package com.lmmmowi.lcof.p3;
 
 /**
- * @Author: 11102942
+ * @Author: lmmmowi
  * @Date: 2021/3/18
  * @Description: 剑指 Offer 03. 数组中重复的数字[https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/]
  */
