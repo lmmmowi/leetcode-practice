@@ -179,6 +179,7 @@
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p434/Solution.java) |
 | 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p451/Solution.java) |
+| 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p452/Solution.java) |
 | 457 | [环形数组循环](https://leetcode-cn.com/problems/circular-array-loop/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p457/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p524/Solution.java) |
