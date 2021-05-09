@@ -204,6 +204,7 @@
 | 1559 | [二维网格图中探测环](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1559/Solution.java) |
 | 1604 | [警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1604/Solution.java) |
 | 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
+| 1656 | [设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1656/Solution.java) |
 | 1675 | [数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1675/Solution.java) |
 | 剑指 Offer 3 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p3/Solution.java) |
 | 剑指 Offer 4 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p4/Solution.java) |
