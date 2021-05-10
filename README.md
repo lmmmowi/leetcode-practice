@@ -207,6 +207,7 @@
 | 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
 | 1656 | [设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1656/Solution.java) |
 | 1675 | [数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1675/Solution.java) |
+| 1801 | [积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1801/Solution.java) |
 | 剑指 Offer 3 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p3/Solution.java) |
 | 剑指 Offer 4 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p4/Solution.java) |
 | 剑指 Offer 5 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p5/Solution.java) |
