@@ -187,7 +187,9 @@
 | 630 | [课程表 III](https://leetcode-cn.com/problems/course-schedule-iii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p630/Solution.java) |
 | 638 | [大礼包](https://leetcode-cn.com/problems/shopping-offers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p638/Solution.java) |
 | 679 | [24 点游戏](https://leetcode-cn.com/problems/24-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p679/Solution.java) |
+| 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p733/Solution.java) |
 | 741 | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p741/Solution.java) |
+| 754 | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p754/Solution.java) |
 | 866 | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p866/Solution.java) |
 | 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
 | 904 | [水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p904/Solution.java) |
