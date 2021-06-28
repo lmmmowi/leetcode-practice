@@ -160,6 +160,7 @@
 | 238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p238/Solution.java) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p257/Solution.go) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p258/Solution.go) |
+| 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p263/Solution.go) |
 | 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p264/Solution.java) |
 | 268 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p268/Solution.go) |
 | 273 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p273/Solution.java) |
