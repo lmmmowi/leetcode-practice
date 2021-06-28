@@ -177,6 +177,7 @@
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p318/Solution.java) |
 | 319 | [灯泡开关 ](https://leetcode-cn.com/problems/bulb-switcher/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p319/Solution.java) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p332/Solution.java) |
+| 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p367/Solution.go) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p434/Solution.java) |
