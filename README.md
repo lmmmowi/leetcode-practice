@@ -151,6 +151,7 @@
 | 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p198/Solution.java) |
 | 200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p200/Solution.go) |
 | 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p202/Solution.go) |
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p206/Solution.go) |
 | 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p207/Solution.java) |
 | 208 | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p208/Solution.go) |
 | 210 | [课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p210/Solution.go) |
