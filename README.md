@@ -201,6 +201,7 @@
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p682/Solution.java) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p733/Solution.java) |
 | 741 | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p741/Solution.java) |
+| 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p743/Solution.java) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p746/Solution.go) |
 | 754 | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p754/Solution.java) |
 | 818 | [赛车](https://leetcode-cn.com/problems/race-car/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p818/Solution.java) |
