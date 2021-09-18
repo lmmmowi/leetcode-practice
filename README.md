@@ -177,6 +177,7 @@
 | 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p287/Solution.java) |
 | 289 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p289/Solution.java) |
 | 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p290/Solution.go) |
+| 292 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p292/Solution.java) |
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p297/Solution.java) |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p300/Solution.java) |
 | 301 | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p301/Solution.java) |
