@@ -12,10 +12,6 @@ import java.util.List;
  */
 public class Solution {
 
-    public static void main(String[] args) {
-        new Solution().partition("cdd");
-    }
-
     public List<List<String>> partition(String s) {
         String[][] palindrome = new String[s.length()][s.length()];
         for (int l = 0; l < s.length(); l++) {
