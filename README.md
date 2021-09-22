@@ -209,6 +209,7 @@
 | 638 | [大礼包](https://leetcode-cn.com/problems/shopping-offers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p638/Solution.java) |
 | 679 | [24 点游戏](https://leetcode-cn.com/problems/24-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p679/Solution.java) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p682/Solution.java) |
+| 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p725/Solution.java) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p733/Solution.java) |
 | 741 | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p741/Solution.java) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p743/Solution.java) |
