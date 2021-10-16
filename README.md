@@ -148,6 +148,7 @@
 | 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p162/Solution.java) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p172/Solution.go) |
 | 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p176/Solution.sql) |
+| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p179/Solution.java) |
 | 181 | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p181/Solution.sql) |
 | 182 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p182/Solution.sql) |
 | 183 | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p183/Solution.sql) |
