@@ -213,6 +213,7 @@
 | 638 | [大礼包](https://leetcode-cn.com/problems/shopping-offers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p638/Solution.java) |
 | 679 | [24 点游戏](https://leetcode-cn.com/problems/24-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p679/Solution.java) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p682/Solution.java) |
+| 688 | [“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p688/Solution.java) |
 | 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p725/Solution.java) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p733/Solution.java) |
 | 739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p739/Solution.go) |
