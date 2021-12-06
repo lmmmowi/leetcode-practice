@@ -195,6 +195,7 @@
 | 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p322/Solution.go) |
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p328/Solution.go) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p332/Solution.java) |
+| 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p338/Solution.go) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p367/Solution.go) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
