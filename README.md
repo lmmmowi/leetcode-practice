@@ -218,6 +218,7 @@
 | 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p725/Solution.java) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p733/Solution.java) |
 | 739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p739/Solution.go) |
+| 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p740/Solution.go) |
 | 741 | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p741/Solution.java) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p743/Solution.java) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p746/Solution.go) |
