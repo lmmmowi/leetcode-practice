@@ -237,6 +237,7 @@
 | 992 | [K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p992/Solution.java) |
 | 996 | [正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p996/Solution.java) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1002/Solution.java) |
+| 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1046/Solution.go) |
 | 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1114/Solution.java) |
 | 1171 | [从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1171/Solution.java) |
 | 1206 | [设计跳表](https://leetcode-cn.com/problems/design-skiplist/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1206/Solution.go) |
