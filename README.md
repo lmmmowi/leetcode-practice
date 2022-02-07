@@ -256,6 +256,7 @@
 | 1512 | [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1512/Solution.java) |
 | 1559 | [二维网格图中探测环](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1559/Solution.java) |
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1584/Solution.java) |
+| 1598 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1598/Solution.java) |
 | 1604 | [警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1604/Solution.java) |
 | 1632 | [矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1632/Solution.java) |
 | 1656 | [设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1656/Solution.java) |
