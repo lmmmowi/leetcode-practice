@@ -226,6 +226,7 @@
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p740/Solution.go) |
 | 741 | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p741/Solution.java) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p743/Solution.java) |
+| 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p744/Solution.java) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p746/Solution.go) |
 | 754 | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p754/Solution.java) |
 | 768 | [最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p768/Solution.go) |
