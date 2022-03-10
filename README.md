@@ -266,6 +266,7 @@
 | 1675 | [数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1675/Solution.java) |
 | 1753 | [移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1753/Solution.java) |
 | 1801 | [积压订单中的订单总数](https://leetcode-cn.com/problems/number-of-orders-in-the-backlog/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1801/Solution.java) |
+| 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1846/Solution.java) |
 | 1866 | [恰有 K 根木棍可以看到的排列数目](https://leetcode-cn.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1866/Solution.java) |
 | 剑指 Offer 3 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p3/Solution.java) |
 | 剑指 Offer 4 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p4/Solution.java) |
