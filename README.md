@@ -252,6 +252,7 @@
 | 1338 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1338/Solution.go) |
 | 1353 | [最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1353/Solution.java) |
 | 1357 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1357/Solution.java) |
+| 1363 | [形成三的最大倍数](https://leetcode-cn.com/problems/largest-multiple-of-three/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1363/Solution.java) |
 | 1395 | [统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1395/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1451 | [重新排列句子中的单词](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1451/Solution.java) |
