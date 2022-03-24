@@ -21,38 +21,22 @@ public class Solution {
     }
 
     private int[] tryRemove(int[] digits) {
-        Map<Integer, List<Integer>> digitMap = new HashMap<>();
-        for (int digit : digits) {
-            int remainder = digit % 3;
-            digitMap.computeIfAbsent(remainder, o -> new ArrayList<>()).add(digit);
-        }
-
         int sum = Arrays.stream(digits).sum();
         int remainder = sum % 3;
         if (remainder == 0) {
             return digits;
         }
 
-        List<Integer> list1 = digitMap.getOrDefault(1, Collections.emptyList());
-        List<Integer> list2 = digitMap.getOrDefault(2, Collections.emptyList());
-        int count1 = remainder == 1 ? 1 : 2;
-        int count2 = remainder == 2 ? 1 : 2;
+        Map<Integer, List<Integer>> digitMap = Arrays.stream(digits).boxed().collect(Collectors.groupingBy(o -> o % 3));
+        int[] arr = remainder == 1 ? new int[]{1, 2} : new int[]{2, 1};
+        for (int r : arr) {
+            List<Integer> list = digitMap.getOrDefault(r, Collections.emptyList());
+            int count = r == remainder ? 1 : 2;
 
-        TreeMap<Integer, List<Integer>> treeMap = new TreeMap<>();
-        treeMap.put(count1, list1);
-        treeMap.put(count2, list2);
-
-        for (Map.Entry<Integer, List<Integer>> entry : treeMap.entrySet()) {
-            int count = entry.getKey();
-            List<Integer> list = entry.getValue();
             if (list.size() >= count && count < digits.length) {
                 Collections.sort(list);
                 list.subList(0, count).clear();
-
-                return digitMap.values().stream()
-                        .flatMap(Collection::stream)
-                        .mapToInt(Integer::intValue)
-                        .toArray();
+                return digitMap.values().stream().flatMap(Collection::stream).mapToInt(Integer::intValue).toArray();
             }
         }
         return new int[0];
