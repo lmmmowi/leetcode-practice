@@ -204,6 +204,7 @@
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p389/Solution.go) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p392/Solution.java),[go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p392/Solution.go) |
+| 393 | [UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p393/Solution.java) |
 | 396 | [旋转函数](https://leetcode-cn.com/problems/rotate-function/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p396/Solution.java) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p434/Solution.java) |
 | 445 | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p445/Solution.go) |
