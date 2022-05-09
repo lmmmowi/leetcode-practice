@@ -235,6 +235,7 @@
 | 768 | [最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p768/Solution.go) |
 | 769 | [最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p769/Solution.go) |
 | 818 | [赛车](https://leetcode-cn.com/problems/race-car/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p818/Solution.java) |
+| 853 | [车队](https://leetcode.cn/problems/car-fleet/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p853/Solution.java) |
 | 866 | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p866/Solution.java) |
 | 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
 | 886 | [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p886/Solution.java) |
