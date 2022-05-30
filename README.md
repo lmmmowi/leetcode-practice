@@ -239,6 +239,7 @@
 | 818 | [赛车](https://leetcode-cn.com/problems/race-car/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p818/Solution.java) |
 | 853 | [车队](https://leetcode.cn/problems/car-fleet/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p853/Solution.java) |
 | 866 | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p866/Solution.java) |
+| 870 | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p870/Solution.java) |
 | 874 | [模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p874/Solution.java) |
 | 886 | [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p886/Solution.java) |
 | 887 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/submissions/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p887/Solution.java) |
