@@ -201,6 +201,7 @@
 | 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p338/Solution.go) |
 | 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p342/Solution.java) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p367/Solution.go) |
+| 371 | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p371/Solution.java) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p382/Solution.java) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p389/Solution.go) |
