@@ -262,6 +262,7 @@
 | 1353 | [最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1353/Solution.java) |
 | 1357 | [每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1357/Solution.java) |
 | 1363 | [形成三的最大倍数](https://leetcode-cn.com/problems/largest-multiple-of-three/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1363/Solution.java) |
+| 1374 | [生成每种字符都是奇数个的字符串](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1374/Solution.java) |
 | 1395 | [统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1395/Solution.java) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1431/Solution.java) |
 | 1444 | [切披萨的方案数](https://leetcode.cn/problems/number-of-ways-of-cutting-a-pizza/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1444/Solution.java) |
