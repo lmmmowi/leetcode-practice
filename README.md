@@ -283,6 +283,7 @@
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1846/Solution.java) |
 | 1866 | [恰有 K 根木棍可以看到的排列数目](https://leetcode-cn.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1866/Solution.java) |
 | 1942 | [最小未被占据椅子的编号](https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1942/Solution.java) |
+| 1979 | [找出数组的最大公约数](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1979/Solution.java) |
 | 2088 | [统计农场中肥沃金字塔的数目](https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p2088/Solution.java) |
 | 2217 | [找到指定长度的回文数](https://leetcode.cn/problems/find-palindrome-with-fixed-length/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p2217/Solution.java) |
 | 剑指 Offer 3 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/lcof/p3/Solution.java) |
