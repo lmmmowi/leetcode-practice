@@ -209,6 +209,7 @@
 | 393 | [UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p393/Solution.java),[go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p393/Solution.go) |
 | 396 | [旋转函数](https://leetcode-cn.com/problems/rotate-function/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p396/Solution.java) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p434/Solution.java) |
+| 440 | [字典序的第K小数字](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p440/Solution.java) |
 | 445 | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p445/Solution.go) |
 | 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p451/Solution.java) |
 | 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p452/Solution.java) |
