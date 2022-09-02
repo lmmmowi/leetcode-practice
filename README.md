@@ -247,6 +247,7 @@
 | 880 | [索引处的解码字符串](https://leetcode.cn/problems/decoded-string-at-index/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p880/Solution.java),[go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p880/Solution.go) |
 | 886 | [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p886/Solution.java) |
 | 887 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/submissions/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p887/Solution.java) |
+| 890 | [查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p890/Solution.go) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p897/Solution.java) |
 | 904 | [水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p904/Solution.java) |
 | 935 | [骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p935/Solution.java) |
