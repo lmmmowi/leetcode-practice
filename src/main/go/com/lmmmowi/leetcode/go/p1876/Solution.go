@@ -1,3 +1,4 @@
+// 1876. 长度为三且各字符不同的子字符串[https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/]
 package main
 
 import "fmt"
