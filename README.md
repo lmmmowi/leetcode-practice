@@ -176,6 +176,7 @@
 | 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p239/Solution.java) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p257/Solution.go) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p258/Solution.go) |
+| 260 | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p260/Solution.go) |
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p263/Solution.go) |
 | 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p264/Solution.java) |
 | 268 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p268/Solution.go) |
