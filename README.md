@@ -262,6 +262,7 @@
 | 996 | [正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p996/Solution.java) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1002/Solution.java) |
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1046/Solution.go) |
+| 1105 | [填充书架](https://leetcode.cn/problems/filling-bookcase-shelves/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1105/Solution.go) |
 | 1106 | [解析布尔表达式](https://leetcode-cn.com/problems/parsing-a-boolean-expression/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1106/Solution.java) |
 | 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1114/Solution.java) |
 | 1161 | [最大层内元素和](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1161/Solution.java) |
