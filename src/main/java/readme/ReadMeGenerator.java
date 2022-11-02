@@ -18,7 +18,6 @@ import java.util.stream.Stream;
  */
 public class ReadMeGenerator {
 
-
     public static void main(String[] args) {
         new ReadMeGenerator().run();
     }
@@ -28,7 +27,7 @@ public class ReadMeGenerator {
         File projectDir = new File(classPathUrl.getFile().replace("target/classes/", ""));
 
         Map<String, List<SolutionItem>> itemMap = new HashMap<>();
-        Stream.of(new JavaItemFinder(), new ScalaItemFinder(), new GoItemFinder(), new SqlItemFinder())
+        Stream.of(new JavaItemFinder(), new ScalaItemFinder(), new GoItemFinder(), new SqlItemFinder(), new CppItemFinder())
                 .map(o -> o.findItems(projectDir))
                 .forEach(l ->
                         l.forEach(item -> {
@@ -55,6 +54,7 @@ public class ReadMeGenerator {
         stringBuilder.append("![Language](https://img.shields.io/badge/language-java-blue.svg)").append("\n");
         stringBuilder.append("![Language](https://img.shields.io/badge/language-scala-red.svg)").append("\n");
         stringBuilder.append("![Language](https://img.shields.io/badge/language-go-9cf.svg)").append("\n");
+        stringBuilder.append("![Language](https://img.shields.io/badge/language-cpp-orange.svg)").append("\n");
         stringBuilder.append("\n");
         stringBuilder.append("| 题号 | 题目 | 解法 |").append("\n");
         stringBuilder.append("| --- |:---:| :---:|").append("\n");
