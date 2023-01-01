@@ -231,6 +231,7 @@
 | 630 | [课程表 III](https://leetcode-cn.com/problems/course-schedule-iii/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p630/Solution.java) |
 | 638 | [大礼包](https://leetcode-cn.com/problems/shopping-offers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p638/Solution.java) |
 | 640 | [求解方程](https://leetcode-cn.com/problems/solve-the-equation/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p640/Solution.java) |
+| 646 | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p646/Solution.java),[cpp](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/cpp/p646/Solution.cpp) |
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p664/Solution.go) |
 | 679 | [24 点游戏](https://leetcode-cn.com/problems/24-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p679/Solution.java) |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p682/Solution.java) |
