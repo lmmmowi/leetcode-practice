@@ -304,6 +304,7 @@
 | 1876 | [长度为三且各字符不同的子字符串](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p1876/Solution.go) |
 | 1942 | [最小未被占据椅子的编号](https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1942/Solution.java) |
 | 1979 | [找出数组的最大公约数](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p1979/Solution.java) |
+| 2008 | [出租车的最大盈利](https://leetcode.cn/problems/maximum-earnings-from-taxi/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p2008/Solution.java) |
 | 2024 | [考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/) | [cpp](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/cpp/p2024/Solution.cpp) |
 | 2058 | [找出临界点之间的最小和最大距离](https://leetcode.cn/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p2058/Solution.go) |
 | 2088 | [统计农场中肥沃金字塔的数目](https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p2088/Solution.java) |
