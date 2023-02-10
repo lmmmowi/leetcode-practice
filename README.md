@@ -225,6 +225,7 @@
 | 470 | [用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p470/Solution.java) |
 | 473 | [火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p473/Solution.java) |
 | 513 | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p513/Solution.java) |
+| 520 | [检测大写字母](https://leetcode.cn/problems/detect-capital/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p520/Solution.java) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p523/Solution.java) |
 | 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p524/Solution.java) |
 | 542 | [01 矩阵](https://leetcode.cn/problems/01-matrix/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p542/Solution.java) |
