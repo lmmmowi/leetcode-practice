@@ -150,6 +150,7 @@
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p160/Solution.go) |
 | 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p162/Solution.java) |
 | 165 | [比较版本号](https://leetcode.cn/problems/compare-version-numbers/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p165/Solution.go) |
+| 166 | [分数到小数](https://leetcode.cn/problems/fraction-to-recurring-decimal/) | [cpp](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/cpp/p166/Solution.cpp) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p172/Solution.go) |
 | 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/sql/com/lmmmowi/leetcode/sql/p176/Solution.sql) |
 | 179 | [最大数](https://leetcode-cn.com/problems/largest-number/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p179/Solution.java) |
