@@ -208,6 +208,7 @@
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p332/Solution.java) |
 | 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p338/Solution.go) |
 | 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p342/Solution.java) |
+| 354 | [俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p354/Solution.java) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [go](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/go/com/lmmmowi/leetcode/go/p367/Solution.go) |
 | 371 | [两整数之和](https://leetcode.cn/problems/sum-of-two-integers/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p371/Solution.java) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [java](https://github.com/lmmmowi/leetcode-practice/blob/master/src/main/java/com/lmmmowi/leetcode/p374/Solution.java) |
